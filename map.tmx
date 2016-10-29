@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="area01_level_tiles" tilewidth="32" tileheight="32">
+  <image source="tutorial_template/data/area01_tileset/area01_level_tiles.png" width="640" height="241"/>
+ </tileset>
+ <tileset firstgid="141" name="metatiles32x32" tilewidth="32" tileheight="32">
+  <image source="tutorial_template/data/area01_tileset/metatiles32x32.png" width="160" height="32"/>
+ </tileset>
+ <layer name="background" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzjYGBg4ABiXSDmA2IdKB+GJYCYGYglGfADmD5koIRHnS4B87ABMzS+OhQzINGEACsUUwtIMhAOm1Hz6GueFBBrIWFQfItRYB4HGiYn7SKbR02AzzxxIGYBYm0SsBSU1kKikTHzAGMApGwIJA==
+  </data>
+ </layer>
+ <layer name="foreground" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAAQQbqAlUqm2dJZfNGwfAGgyU98wAxL5oYHwP56VkBiBXRxMxwqCU2DASIVEdsGKgQqY7YMLCA0gBZ1QJY
+  </data>
+ </layer>
+</map>
